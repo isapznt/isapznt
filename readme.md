@@ -12,5 +12,5 @@ o desenvolvimento de sistemas não só facilita a vida cotidiana, mas também im
   <a href="https://www.linkedin.com/in/isabella-puzenato-22843b352/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-![pz GitHub stats](https://github-readme-stats.vercel.app/api?username=isapznt&show_icons=true&theme=dracula)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 
